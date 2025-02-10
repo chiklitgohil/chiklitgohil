@@ -1,130 +1,158 @@
-# Chiklit Gohil 
-> Bhavnager, Gujarat | [gchiklit@gmailcom](mailto:gchiklit@gmail.com) | +91 12345 12345 | [chiklitgohil.github.io](https://chiklitgohil.github.io)
+# Chiklit Gohil
+
+> Bhavnager, Gujarat  
+> +91 1234512345  
+> [gchiklit@gmail.com](mailto:gchiklit@gmail.com)  
+> [chiklitgohil.github.io](https://chiklitgohil.github.io)
 
 ---
 
-## Education
+## Skills & Certifications
 
-### DPS International Ghana | August 2020 – June 2025
-- **A Level Subjects**: Physics, Mathematics, Further Mathematics, Computer Science
-- **IGCSE Results**:
-    - (0417) Information and Communication Technology – A* (93%)
-    - (0580) Mathematics – A* (94%)
-    - (0625) Physics – A* (94%)
-    - (0610) Biology – A* (90%)
-    - (0620) Chemistry – A* (93%)
-    - (0606) Additional Mathematics – A (85%)
-    - (0500) First Language English – C (61%)
-- **SAT Scores**:
-    - Math: 760
-    - Evidence-Based Reading and Writing: 750
+### **Technical Skills**
 
-### Fatima Convent Public School | April 2010 – March 2020
+- **Programming**: Python, C, HTML, CSS, JavaScript, SQL
+- **Tools & Software**: DaVinci Resolve, CapCut
+- **Web Development**: UI/UX Design, WordPress
+
+### **Soft Skills**
+
+- Leadership, Communication, Public Speaking, Problem-Solving
+
+### **Certifications**
+
+- **CS50x**: Developed a Calisthenics Workout Tracker WebApp (Flask, SQLite)
+
+### Test Scores
+
+- SAT
+  - Math: 760
+  - Evidence-Based Reading and Writing: 620
 
 ---
 
 ## Experience
 
-### Startup Founder
-- **Project**: *Student Productivity Hub Website*
-  - Developed a website aimed at enhancing student motivation and productivity through time management tools and resources.
+### **Startup Founder**
 
-### iBnox Internship | July 2024 – Present
-- **Role**: Business Analyst
-  - Bridging the gap between developers and clients by translating their needs into actionable documentation for developers.
+**Student Productivity Hub Website** | _June 2024 - Present_
 
-### Chandan Narayani Research Internship | July 2024 – Present
-- **Role**: ML/AI Engineer
-  - Led the development of *FloreScope - The Harvest AI*, an AI-based system to detect plant diseases.
-  - Participated in the Science Exhibition from 12th December 2023 to 2nd March 2024.
+- Built a platform to enhance student productivity with time management tools.
 
-### Wigal Internship | December 2023 – January 2024
-- **Role**: Web Development Intern
-  - Redesigned and developed DPS International MUN 2024 website.
-  - Worked on school website development using HTML, CSS, JavaScript.
+### **iBiixo Technology Internship**
 
-### Head Boy | DPS International Ghana | 8 April 2024 – Present
-- **Role**: Assembly Prefect
-  - Organized student-led assemblies and represented students in administrative discussions.
+**Business Analyst** | _July 2024 - September 2024_
 
-### Freelance | 2018 – Present
-- **Role**: Web Developer
-  - Developed personal and business websites for clients, including the Shine On Scholars Website.
-  - Worked on 4 clients’ branding and business websites, some pro bono.
+- Translated client requirements into actionable documentation for developers.
 
-- **Role**: Video Editor
-  - Edited videos for social media platforms (YouTube, TikTok, Instagram).
-  - Ran a YouTube gaming channel that garnered over 2K views.
-  - Collaborated with YouTubers and organizations on video editing projects.
+### **DNN Technology Internship**
+
+**ML/AI Engineer** | _July 2024 - September 2024_
+
+- Developed **FloreScope - The Harvest AI** for plant disease detection.
+- Presented at the Science Exhibition (Dec 2023 - Mar 2024).
+
+### **Wigal Internship**
+
+**Front-end Web Developer** | _December 2023 - January 2024_
+
+- Redesigned and developed the DPSI MUN 2024 website.
+- Worked on school website projects using HTML, CSS, JavaScript.
+
+### **Freelance**
+
+**Web Developer & Video Editor** | _2018 - Present_
+
+- Created websites for clients, including the Shine On Scholars platform.
+- Edited videos for YouTubers and social media, garnering 2K+ views.
+
+### **Head Boy, DPSI Ghana**
+
+**Assembly Prefect** | _April 2024 - Present_
+
+- Organized creative assemblies and represented student interests in admin discussions.
+
+### **Hybrid Calisthenics Athlete**
+
+**Personal Development** | _Grade 9 - Present_
+
+- Developed a calisthenics workout tracking app to monitor training progress.
+- Taught calisthenics and encouraged fitness within the community.
+
+---
+
+## Education
+
+### **Delhi Private School International, Ghana**
+
+_August 2020 - June 2025_
+
+- **A-Level Subjects**: Physics, Mathematics, Further Mathematics, Computer Science
+- **IGCSE**: 5 A\*s in STEM subjects (ICT, Math, Physics, Chemistry) | Overall: 92%
+- **SAT**: Math: 760 | EBRW: 750
+
+### **Fatima Convent Public School**
+
+_April 2010 - March 2020_
 
 ---
 
 ## Projects
 
-### Florescope - The Harvest AI
-- **Research Project** | December 2023 – March 2024
-  - Developed an AI-based system to detect plant diseases.
-  - Presented as a potential business model for sustainable farming.
+### **Florescope - The Harvest AI**
 
-### Student Productivity Hub Website
-- **Startup**
-  - Created a platform for student productivity with time management and academic progress tracking.
+**AI System** | _Dec 2023 - Mar 2024_
 
-### DPSI MUN 2024 Website
-- **Project** | April 2024 – Sep 2024
-  - Redesigned and developed the official DPSI MUN 2024 website.
+- Developed a plant disease detection AI and presented at Science Exhibitions.
 
-### Shine On Scholars Website
-- **Project** | May 2024 – Present
-  - Developed a website for an orphanage organization to boost visibility and engagement.
+### **Student Productivity Hub Website**
 
-### Calisthenics Workout Tracker
-- **WebApp** | October 2024 – Present
-  - Designed a web app to track calisthenics workouts using SQL.
+**Startup** | _June 2024 - Present_
 
-### West Africa Group Websites
-- **Project**
-  - Developed a business website for a West Africa group using WordPress.
+- Built a platform for productivity and academic tracking.
 
----
+### **DPSI MUN 2024 Website**
 
-## Skills
+**Web Development** | _April 2024 - Sep 2024_
 
-- **Programming Languages**: Python, C, HTML, CSS, JavaScript, SQL
-- **Software**: DaVinci Resolve, CapCut
-- **Technical Skills**: Web Development, Cinematography, Video Editing, UI/UX Design
-- **Soft Skills**: Leadership, Communication, Public Speaking, Problem-Solving
+- Redesigned the event website for better engagement and visibility.
 
----
+### **Shine On Scholars Website**
 
-## Certifications
+**Web Development** | _May 2024 - Present_
 
-- **CS50x**: Final Project: Calisthenics Workout Tracker WebApp (Using HTML, CSS, JavaScript, Flask, SQLite)
+- Boosted engagement for an orphanage organization with a tailored website.
+
+### **Calisthenics Workout Tracker**
+
+**WebApp** | _Oct 2024 - Present_
+
+- Designed a SQL-based app for tracking workouts.
 
 ---
 
 ## Honors and Awards
 
-- **Academic Merit Award (5A*s)** – DPS International Ghana | Sep 2023
-- **The 2023 Orators Public Speaking Challenge (Senior Category)** – Bronze Medalist | Sep 2023
-- **Essay Writing Competition (3rd Position)** – High Commission of India, Accra | Aug 2023
-- **Science and Innovation Challenge (1st Place)** – DPS International Ghana | Oct 2020
-- **The Queen's Commonwealth Essay Competition (Bronze Medalist)** – Royal Commonwealth Society | Oct 2023
-- **Karate Champion (Second Place)** – Khel Mahakumbh City Level in Karate
-- **Copernicus Olympiad (Physics and Astronomy)** – Honorable Mention | Dec 2023
-- **Copernicus Olympiad Mathematics** – Silver Medal | Dec 2023
-- **American Math Olympiad (Bronze Medalist)** – American Math Olympiad 2023 (in affiliation with Southern Illinois University) | Dec 2023
+- **Your World Competition** by British Council (Video Making Competition) - School First
+- **Heroes of Bharat Global Contest** (Video Making Competition) - Global Winner | 2024
+- **Science Exhibition 2023-24** by DPSI Ghana - Developed _Floroscope AI_ for innovative environmental monitoring
+- **Design Thinking with Robotics and Compuutational Thinking International (DrCT)** by SIMCC - Bronze Award | _2024_
+- **Academic Merit Award 2022-23** by DPSI Ghana - 5 IGCSE A\*s | _Sep 2023_
+- **The 2023 Orators Public Speaking Challenge** by Speech Forces (Senior Category) - Bronze Medalist | _Sep 2023_
+- **Essay Writing Competition** by High Commission of India, Accra - 3rd Position | _Aug 2023_
+- **The Queen's Commonwealth Essay Competition** by Royal Commonwealth Society - Bronze Medalist | Oct 2023
+- **American Math Olympiad 2023** (SIMCC affiliated with Southern Illinois University) - Bronze Medalist | Dec 2023
+- **Copernicus Olympiad**
+  - Mathematics: Silver Medalist | Dec 2023
+  - Physics and Astronomy: Honorable Mention | Dec 2023
+- **Science and Innovation Challenge** by DPSI Ghana - 1st Position | Oct 2020
+- **Karate Championship** by Khel Mahakumbh (District Level) - Second Position & State Level Qualifier
 
 ---
 
-## Activities
+## Extracurriculars
 
-- **Model United Nations (MUN)** – DPSIMUN (2023 & 2024), GISMUN
-- **Hybrid Calisthenics Athlete** – Grade 9 – Present
-  - Developed a calisthenics workout tracking app and taught calisthenics.
-  - Last recorded workout: 1/11/2022.
-- **Modeling** – British Council Awards, Unity in Diversity Fashion Show
-- **Freelancing** – Videography, Photography, Video Editing, Web Development for content creators
-- **Computer Club** – 1 hour per week | February 2024 - Present
-  - Project: Library Management System
-
+- **Model United Nations (MUN)**: DPSIMUN 2023, GISMUN 2023
+- **Modeling**: British Council Awards, Unity in Diversity Fashion Show
+- **Freelancing**: Videography, Photography, Video Editing, Web Development for content creators
+- **Computer Club Member**: Participated in weekly coding and development activities.
